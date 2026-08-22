@@ -4,6 +4,11 @@ A four-stage AI research pipeline that searches the web, scrapes the most
 relevant source, writes a structured report, and critiques its own output —
 built with LangChain, Mistral, and Tavily, and shipped as a Streamlit app.
 
+**🔗 Live demo:** [multi-agent-research-system-7vtj.onrender.com](https://multi-agent-research-system-7vtj.onrender.com/)
+
+> Hosted on Render's free tier, so it spins down after inactivity — the
+> first request after idle time can take 30–50s to wake up.
+
 ## How it works
 
 The pipeline runs in four sequential stages:
