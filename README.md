@@ -170,14 +170,10 @@ This project is distributed under the MIT License. See LICENSE for details.
 
 Citation & Contact
 ------------------
-If you use this code in published research, please cite the repository and include the Git commit hash used for experiments. Contact: (Your Name — add email or GitHub handle).
+If you use this code in published research, please cite the repository and include the Git commit hash used for experiments. Contact: MrSingh-badal
 
 Acknowledgements
 ----------------
 Thanks to the open-source community and prior multi-agent toolkits that inspired this project. Add specific references and collaborators here.
 
-Extras / Tips
-------------
-- Keep experiment configs in a single directory and use human-readable names.
-- Use lightweight visualization (matplotlib / seaborn) for quick result checks.
-- Save results in CSV/JSON to make downstream analysis straightforward.
+
